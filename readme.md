@@ -36,7 +36,8 @@ The high-level architecture is shown below:
 ## Demo
 
 - Demo video: [Demo AI](Demo%20AI%20Agent%20tier%201.mp4)
+- Note: The demo video voice-over is in Vietnamese.
 
 ## Git Repository
 
-- URL: _I will paste url later_
+- URL: https://github.com/thehieuduong7/AI-Agent-Tier-1-Demo
